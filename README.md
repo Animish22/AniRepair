@@ -24,6 +24,10 @@
 
 ![Add_Notes_Page](https://github.com/Animish22/AniRepair-Frontend/assets/125894114/0b9d0fcd-a19c-4e40-b9f7-8905895f6e45)
 
+# Edit Notes Page
+
+![Edit_Notes_Page](https://github.com/Animish22/AniRepair-Frontend/assets/125894114/c72b24e1-bfb5-45e2-b65b-88e798edb80d)
+
 # Users Page (Only for Admin and Managers)
 
 ![UsersPage](https://github.com/Animish22/AniRepair-Frontend/assets/125894114/1efc7cc2-ee3f-4552-bb3c-9be68de0562a)
@@ -31,6 +35,11 @@
 # Add Users Page (Only for Admin and Manager)
 
 ![Add_User_Page](https://github.com/Animish22/AniRepair-Frontend/assets/125894114/de698a68-e947-4c8b-a5dd-f02b7b991103)
+
+# Edit User Page(Only for Admin and Manager)
+![EDit_User_Page](https://github.com/Animish22/AniRepair-Frontend/assets/125894114/f84e933b-b2d2-4b21-b2b6-12764b160611)
+
+
 
 
 
