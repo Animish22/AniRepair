@@ -12,7 +12,7 @@
 
 ![DashBoardPage1](https://github.com/Animish22/AniRepair-Frontend/assets/125894114/39eedbc5-e48b-4eae-97b7-71d027b203dd)
 
-# DashBoard Page (For Normal Employees (no other Roles) )
+# DashBoard Page(For Normal Employees (no other Roles))
 
 ![DashBoardPage2](https://github.com/Animish22/AniRepair-Frontend/assets/125894114/24ac2914-b4d0-464c-af19-cd1b01d85adb)
 
